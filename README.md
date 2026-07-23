@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=230&section=header&text=Hi,%20I'm%20Anupam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20•%20Backend%20Enthusiast%20•%20Problem%20Solver&descAlignY=56&descSize=17"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,50:3b82f6,100:2563eb&height=230&section=header&text=Hi,%20I'm%20Anupam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20•%20Backend%20Enthusiast%20•%20Problem%20Solver&descAlignY=56&descSize=17"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=230&section=header&text=Hi,%20I'm%20Anupam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20•%20Backend%20Enthusiast%20•%20Problem%20Solver&descAlignY=56&descSize=17" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:2563eb&height=230&section=header&text=Hi,%20I'm%20Anupam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20•%20Backend%20Enthusiast%20•%20Problem%20Solver&descAlignY=56&descSize=17"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,50:818cf8,100:7c3aed&height=230&section=header&text=Hi,%20I'm%20Anupam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20•%20Backend%20Enthusiast%20•%20Problem%20Solver&descAlignY=56&descSize=17"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:2563eb&height=230&section=header&text=Hi,%20I'm%20Anupam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20•%20Backend%20Enthusiast%20•%20Problem%20Solver&descAlignY=56&descSize=17" width="100%"/>
 </picture>
 
 <a href="https://github.com/anupam">
@@ -216,8 +216,8 @@ https://github.com/Platane/snk
 **Thanks for stopping by 👋 — drop a ⭐ if something here caught your eye.**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:4f46e5&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:4f46e5&height=100&section=footer" width="100%"/>
 </picture>
 
 </div>
